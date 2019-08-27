@@ -106,7 +106,7 @@ nav {
   margin: 6px;
   padding: 2px 0;
   background-color: none;
-  background-image: url('../images/search_white.png'), linear-gradient(177.7deg,rgba(79, 104, 112, 1) 4.1%,rgba(150, 198, 214, 1) 93.9%);
+  background-image: url('../images/search_white.png'), linear-gradient(177.7deg, rgba(79, 104, 112, 1) 4.1%, rgba(150, 198, 214, 1) 93.9%);
   background-repeat: no-repeat;
   transition: 0.6s ease;
   outline: 0;
